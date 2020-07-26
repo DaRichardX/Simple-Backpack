@@ -1,0 +1,10 @@
+name: SimpleBackpack
+author: LaTeaMaker
+version: 1.0
+main: Tea.LaTeaMaker.Milk.SimpleBackpack.SimpleBackpacks
+description: Simple Backpack Items
+api-version: 1.14
+
+commands:
+   GiveMediumBackpack:
+      description: Give Medium Backpack.
